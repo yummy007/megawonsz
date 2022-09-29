@@ -11,7 +11,7 @@
 a = str(input("siema stary, potrzenujemy cie w mnaszym skladzie, pomozesz nam? : "))
 
 
-if a : "tak" 
+if a == ("tak")
     print ("dziena")
 else:
     print("nie jsestes mily")
